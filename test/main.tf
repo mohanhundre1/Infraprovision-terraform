@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "example" {
-  ami           = "ami-09b0a86a2c84101e1"  # Replace with a valid AMI ID for your region
+  ami           = "ami-0d64bb532e0502c46"  # Replace with a valid AMI ID for your region
   instance_type = "t2.micro"      # Choose your instance type
 
   tags = {
