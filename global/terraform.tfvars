@@ -1,4 +1,4 @@
 
 
-aws_region = "us-west-2"
+aws_region = "ap-south-1"
 project_name = "terraform-project"
